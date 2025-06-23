@@ -1,0 +1,4 @@
+Model,Mean Accuracy,Mean Precision,Mean Recall,Time Taken (s)
+Random Forest,0.9449,0.9156,0.9058,3942.87
+Logistic Regression,0.8516,0.7237,0.6665,21224.7
+Linear SVM,0.8636,0.721,0.6713,734.76
